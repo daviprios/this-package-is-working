@@ -1,0 +1,11 @@
+{
+	"name": "@daviprios/this-package-is-working",
+	"version": "1.0.0",
+	"description": "is it working?",
+	"main": "./index.js",
+	"keywords": [
+		"fun"
+	],
+	"author": "daviprios",
+	"license": "ISC"
+}
